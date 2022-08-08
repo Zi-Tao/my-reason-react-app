@@ -55,3 +55,21 @@ Time:        1.572s
 Ran all test suites.
 ✨  Done in 2.81s.
 ```
+
+<hr/>
+
+## Setting up a Reason React App
+
+Step 1: [Welcome](https://github.com/Zi-Tao/my-reason-react-app/issues/1)
+
+Step 2: [Install Dependencies](https://github.com/Zi-Tao/my-reason-react-app/pull/2)
+
+Step 3: [Setting up an Editor](https://github.com/Zi-Tao/my-reason-react-app/pull/2)
+
+Step 4: [Building the Project](https://github.com/Zi-Tao/my-reason-react-app/pull/2)
+
+Step 5: [Testing the Project](https://github.com/Zi-Tao/my-reason-react-app/pull/2)
+
+Step 6: [Verifying the App Works](https://github.com/Zi-Tao/my-reason-react-app/pull/2)
+
+Step 7: [Fin: Wrapping it up!](https://github.com/Zi-Tao/my-reason-react-app/issues/3)
